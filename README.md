@@ -25,7 +25,7 @@ Catch wind of where most of your returning traffic is visiting from.
 1. Ensure **Xophz COMPASS** is installed and active.
 2. Upload `xophz-compass-gale-boomerang` to `/wp-content/plugins/`.
 3. Activate through the Plugins menu.
-4. Access via the COMPASS dashboard → **Gale Boomerang**.
+4. Access via the My Compass dashboard → **Gale Boomerang**.
 
 ## Frontend Routes
 
