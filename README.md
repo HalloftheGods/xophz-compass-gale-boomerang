@@ -6,7 +6,7 @@ Catch wind of where most of your returning traffic is visiting from.
 
 ## Description
 
-**Gale Boomerang** (Magic Boomerang) is a return-visitor analytics plugin for COMPASS. It identifies and tracks returning users, mapping their referral sources and visit patterns to reveal which channels consistently bring people back.
+**Magic Boomerang** (Magic Boomerang) is a return-visitor analytics plugin for COMPASS. It identifies and tracks returning users, mapping their referral sources and visit patterns to reveal which channels consistently bring people back.
 
 ### Core Capabilities
 
@@ -25,7 +25,7 @@ Catch wind of where most of your returning traffic is visiting from.
 1. Ensure **Xophz COMPASS** is installed and active.
 2. Upload `xophz-compass-gale-boomerang` to `/wp-content/plugins/`.
 3. Activate through the Plugins menu.
-4. Access via the My Compass dashboard → **Gale Boomerang**.
+4. Access via the My Compass dashboard → **Magic Boomerang**.
 
 ## Frontend Routes
 

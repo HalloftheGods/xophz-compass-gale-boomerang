@@ -171,7 +171,9 @@ class Xophz_Compass_Gale_Boomerang {
 		$plugin_public = new Xophz_Compass_Gale_Boomerang_Public( $this->get_xophz_compass_gale_boomerang(), $this->get_version() );
 
 		// $this->loader->add_action( 'wp_enqueue_scripts', $plugin_public, 'enqueue_styles' );
-		// $this->loader->add_action( 'wp_enqueue_scripts', $plugin_public, 'enqueue_scripts' );
+		$this->loader->add_action( 'wp_enqueue_scripts', $plugin_public, 'enqueue_scripts' );
+		$this->loader->add_action( 'user_register', $plugin_public, 'capture_wind_on_registration' );
+		$this->loader->add_action( 'init', $plugin_public, 'capture_wind_early' );
 
 	}
 
