@@ -9,7 +9,7 @@ if ( ! defined( 'WPINC' ) ) {
  * Start at version 1.0.0 and use SemVer - https://semver.org
  * Rename this for your plugin and update it as you release new versions.
  */
-define( 'XOPHZ_COMPASS_GALE_BOOMERANG_VERSION', '26.4.28.667' );
+define( 'XOPHZ_COMPASS_GALE_BOOMERANG_VERSION', '26.4.29' );
 
 /**
  * The code that runs during plugin activation.
