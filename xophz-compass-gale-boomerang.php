@@ -14,6 +14,7 @@
  *
  * @wordpress-plugin
  * Category:          True North
+ * Group:             MA
  * Plugin Name:       Xophz Magic Boomerang 
  * Plugin URI:        https://github.com/HalloftheGods/xophz-compass-gale-boomerang
  * Description:       Catch wind of where most of your returning traffic are visiting from.  
