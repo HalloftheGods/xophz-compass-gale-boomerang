@@ -54,8 +54,7 @@ function activate_xophz_compass_gale_boomerang() {
  * This action is documented in includes/class-xophz-compass-gale-boomerang-deactivator.php
  */
 function deactivate_xophz_compass_gale_boomerang() {
-  require_once plugin_dir_path( __FILE__ ) . 'includes/class-xophz-compass-gale-boomerang-deactivator.php';
-  Xophz_Compass_Gale_Boomerang_Deactivator::deactivate();
+	Xophz_Compass_Gale_Boomerang::deactivate();
 }
 
 register_activation_hook( __FILE__, 'activate_xophz_compass_gale_boomerang' );
