@@ -13,7 +13,7 @@
  * @package           xophz_compass_gale_boomerang_
  *
  * @wordpress-plugin
- * Category:          True North
+ * Category:          Trajectory 
  * Group:             MA
  * Plugin Name:       Xophz Magic Boomerang 
  * Plugin URI:        https://github.com/HalloftheGods/xophz-compass-gale-boomerang
